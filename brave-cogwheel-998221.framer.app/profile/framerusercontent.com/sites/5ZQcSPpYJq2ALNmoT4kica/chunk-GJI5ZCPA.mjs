@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-RV5YY3GO.mjs";function r(a,e){return{bodyClassName:"framer-body-MtVYEkE1q",breakpoints:[{hash:"wdmyfv"}],description:t(a,e).description,elements:{},robots:"max-image-preview:large",serializationId:"framer-wavq0",title:t(a,e).title||"Fwd Button",viewport:"width=1230"}}var d=1,m={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"function",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,d as b,m as c};
+//# sourceMappingURL=chunk-GJI5ZCPA.mjs.map

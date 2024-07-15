@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-RV5YY3GO.mjs";function r(e,a){return{bodyClassName:"framer-body-iASBDInRp",breakpoints:[{hash:"nwsulm"}],description:t(e,a).description,elements:{},robots:"max-image-preview:large",serializationId:"framer-o8rfO",title:t(e,a).title||"360 View",viewport:"width=1230"}}var m=1,d={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"function",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,m as b,d as c};
+//# sourceMappingURL=chunk-RVM7DLI7.mjs.map

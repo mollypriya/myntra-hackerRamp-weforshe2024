@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-RV5YY3GO.mjs";function r(e,a){return{bodyClassName:"framer-body-nJxc735da",breakpoints:[{hash:"1j5gbw0"}],description:t(e,a).description,elements:{},robots:"max-image-preview:large",serializationId:"framer-nSX3Y",title:t(e,a).title||"Your Profile",viewport:"width=1230"}}var d=1,m={exports:{default:{type:"function",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,d as b,m as c};
+//# sourceMappingURL=chunk-RDAPC73O.mjs.map

@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-RV5YY3GO.mjs";function r(e,a){return{bodyClassName:"framer-body-GV4fQUXPt",breakpoints:[{hash:"1q3rb9l"}],description:t(e,a).description,elements:{},robots:"max-image-preview:large",serializationId:"framer-KoU4s",title:t(e,a).title||"Minis1",viewport:"width=1230"}}var d=1,m={exports:{default:{type:"function",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,d as b,m as c};
+//# sourceMappingURL=chunk-Y63Y24QE.mjs.map
