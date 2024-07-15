@@ -7,6 +7,7 @@
   - *Current Challenge:* Low engagement due to limited video upload access (only influencers).
   - *Solution:* Open video uploads to all users to enhance engagement and community involvement.
 - *Screenshots and Demo Video:*
+  - *[website link](https://brave-cogwheel-998221.framer.app/)* 
   - *[drive link](https://drive.google.com/drive/folders/1y52jvOHjCQrjQwe2cW2L6P4zYJMF1Uoe?usp=sharing)*
   -  ![Image description](/images/Screenshot%202024-07-15%20222702.png)
   -  ![Image description](/images/Screenshot%202024-07-15%20222712.png)
