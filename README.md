@@ -1,4 +1,6 @@
-### Myntra-HackerRamp2024-CoDeQuEeNs
+# Myntra-HackerRamp2024-CoDeQuEeNs
+## Seldon Angmo(3rd year) Molly Priya(3rd year) (Netaji Subhash University Of Technology,Dwarka)
+### Netaji Subhash University Of Technology,Dwarka
 
 - *Project Goal:* Drive habitual user engagement on our shopping app, particularly among Gen Z.
 - *Key Feature:* "Minis" – short videos of users trying on clothes.
